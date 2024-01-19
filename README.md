@@ -1,6 +1,5 @@
 # POWER-BI-PWC
 
- Introduction
- Call	Centre	Trends
- Customer	Retention
- Diversity	&	Inclusion
+ 1.Introduction Call	Centre	Trends
+ 2.Customer	Retention
+ 3.Diversity	&	Inclusion
